@@ -2,7 +2,7 @@
 
 # Introduction
 
-<img style="width: 300px; display: flex; justify-content: center; margin: 0 auto;" src="https://github.com/Mar-lim/Penguins_Analysis/assets/128103175/5cc9bf8d-2a60-4ff3-84b0-a3e61d4103bf" alt="lter_penguins" class="custom-image">
+<img style="width: 400px; display: flex; justify-content: center; margin: 0 auto;" src="https://github.com/Mar-lim/Penguins_Analysis/assets/128103175/5cc9bf8d-2a60-4ff3-84b0-a3e61d4103bf" alt="lter_penguins" class="custom-image">
 
 
 The Palmer penguins data contains size measurements for three different penguin species observed on three islands in the Palmer Archipelago, Antarctica.
