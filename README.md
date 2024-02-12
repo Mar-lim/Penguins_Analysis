@@ -11,6 +11,10 @@ The sampling grid was from the Anvers region, and the penguins are of the Eukary
 
 ----
 
+
+# Problem Statement
+The objective of this analysis is to determine what affects the clutch completetion of the Palmer Penguins.
+
 # Description
 The dataset used was obtained from Kaggle and it consists of 17 columns, 344 rows and 0 duplicate values. For the purpose of this analysis 9 columns would be used.
 
@@ -31,6 +35,8 @@ The dataset used was obtained from Kaggle and it consists of 17 columns, 344 row
 •	Body mass(kg): weight of the penguin
 
 •	Sex: gender of the penguin
+
+
 
 
 
